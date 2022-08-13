@@ -1,1 +1,1 @@
-
+# Statis vs Dynamic websites:
