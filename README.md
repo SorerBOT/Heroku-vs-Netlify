@@ -12,4 +12,5 @@
 * Can respond to user interactions. (button clicks, hover effects and the likes...)  
 * Interacts with databases. (The data can be mutated - hence they are called dynamic.)
 
+## Comparison:  
 <img src="https://conormclaughlin.net/img/dynamic_vs_static.jpg" />  
