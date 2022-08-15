@@ -18,4 +18,4 @@ To begin with, we must learn to differenciate between Static and Dynamic website
 ## Comparison:  
 <img src="https://conormclaughlin.net/img/dynamic_vs_static.jpg" />  
 
-Considering the fact that we use a Database it is clear that our website can be referred to as a Dynamic one.
+## Our Website is Dynamic
