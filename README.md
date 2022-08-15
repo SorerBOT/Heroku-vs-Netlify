@@ -21,3 +21,13 @@ To begin with, we must learn to differenciate between Static and Dynamic website
 ## Our Website is Dynamic
 
 * We wish to interact with a Database.
+
+## Summary
+
+* Hero is as PaaS (Platform as a Service)
+* Netlify is Serverless. (Trafic to your site diverges accross many Servers, according to the amount of traffic there is)
+
+* Netlify is not so well suited for interactions with Backends.
+* Netlify is well suited for React applications.
+
+* Heroku is well suited for interactions with Backends.
