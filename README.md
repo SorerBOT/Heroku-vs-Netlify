@@ -24,10 +24,14 @@ To begin with, we must learn to differenciate between Static and Dynamic website
 
 ## Summary
 
-* Hero is as PaaS (Platform as a Service)
+* Heroku is as PaaS (Platform as a Service)
 * Netlify is Serverless. (Trafic to your site diverges accross many Servers, according to the amount of traffic there is)
 
 * Netlify is not so well suited for interactions with Backends.
 * Netlify is well suited for React applications.
 
 * Heroku is well suited for interactions with Backends.
+
+I recommend using both, as each offers a limited number of requests per minute;
+
+And so using Heroku for the Backend and Netlify for the Frontend would allow for generaly more requests per minute.
