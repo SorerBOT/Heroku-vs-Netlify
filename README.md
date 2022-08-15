@@ -19,3 +19,5 @@ To begin with, we must learn to differenciate between Static and Dynamic website
 <img src="https://conormclaughlin.net/img/dynamic_vs_static.jpg" />  
   
 ## Our Website is Dynamic
+
+* We wish to interact with a Database.
