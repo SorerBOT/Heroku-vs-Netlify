@@ -17,5 +17,5 @@ To begin with, we must learn to differenciate between Static and Dynamic website
 [Static Demonstration](https://vimeo.com/739463418)
 ## Comparison:  
 <img src="https://conormclaughlin.net/img/dynamic_vs_static.jpg" />  
-
+## 
 ## Our Website is Dynamic
