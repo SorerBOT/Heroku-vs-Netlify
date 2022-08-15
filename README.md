@@ -1,4 +1,6 @@
-# Static vs Dynamic websites:
+# Heroku vs Netlify:
+
+To begin with, we must learn to differenciate between Static and Dynamic websites:
 
 ## Static:  
 
